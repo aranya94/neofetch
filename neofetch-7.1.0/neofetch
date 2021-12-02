@@ -5631,7 +5631,7 @@ EOF
 
         ;;
 
-        "td_linux"*)
+        "TD_Linux"*)
             set_colors 7 4
             read -rd '' ascii_data <<'EOF'
 ${c2}
